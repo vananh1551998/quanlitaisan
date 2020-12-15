@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>dangnhap1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>878db9da-5108-42a0-995d-03177a23011b</testCaseGuid>
+   <variable>
+      <defaultValue>'BMT'</defaultValue>
+      <description></description>
+      <id>b3875ace-8bac-45d4-b767-08cb1c99c6ee</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345'</defaultValue>
+      <description></description>
+      <id>933b4984-38d9-4ddd-970d-de9e15748139</id>
+      <masked>false</masked>
+      <name>Pasword</name>
+   </variable>
+</TestCaseEntity>

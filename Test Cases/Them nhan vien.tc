@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Them nhan vien</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43592f42-42ae-4894-b11a-b0c125ecb9e6</testCaseGuid>
+   <variable>
+      <defaultValue>'BMT'</defaultValue>
+      <description></description>
+      <id>39474e6e-9012-4e26-8e6b-63f3bd0b2ab8</id>
+      <masked>false</masked>
+      <name>A</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345'</defaultValue>
+      <description></description>
+      <id>610a167a-9f71-4214-a573-b5d6b99eea03</id>
+      <masked>false</masked>
+      <name>B</name>
+   </variable>
+   <variable>
+      <defaultValue>'Duyên '</defaultValue>
+      <description></description>
+      <id>31be6f8d-b158-449d-9793-d35533d421b5</id>
+      <masked>false</masked>
+      <name>C</name>
+   </variable>
+   <variable>
+      <defaultValue>'Duyên Liễu '</defaultValue>
+      <description></description>
+      <id>0cb6ecf5-1cfa-4fe0-803a-50dbab9ff059</id>
+      <masked>false</masked>
+      <name>D</name>
+   </variable>
+   <variable>
+      <defaultValue>'098765678'</defaultValue>
+      <description></description>
+      <id>18ffd616-098f-40b8-aa9d-b74527b45ea6</id>
+      <masked>false</masked>
+      <name>E</name>
+   </variable>
+   <variable>
+      <defaultValue>'Testter'</defaultValue>
+      <description></description>
+      <id>0657bf13-2e68-4bf5-9db8-2a8eee5eadf7</id>
+      <masked>false</masked>
+      <name>F</name>
+   </variable>
+</TestCaseEntity>

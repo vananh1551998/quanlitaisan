@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test nhanvien</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>6b50b17e-1169-4848-9406-361723381af8</testSuiteGuid>
+   <testCaseLink>
+      <guid>4327d96e-a882-4594-8354-e7cf0a23c56e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Them nhan vien</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>747dfbb3-f79d-4ffe-a5a4-5785e5ca67d2</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data nhanvien</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>747dfbb3-f79d-4ffe-a5a4-5785e5ca67d2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>A</value>
+         <variableId>39474e6e-9012-4e26-8e6b-63f3bd0b2ab8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>747dfbb3-f79d-4ffe-a5a4-5785e5ca67d2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>B</value>
+         <variableId>610a167a-9f71-4214-a573-b5d6b99eea03</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>747dfbb3-f79d-4ffe-a5a4-5785e5ca67d2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>C</value>
+         <variableId>31be6f8d-b158-449d-9793-d35533d421b5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>747dfbb3-f79d-4ffe-a5a4-5785e5ca67d2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>D</value>
+         <variableId>0cb6ecf5-1cfa-4fe0-803a-50dbab9ff059</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>747dfbb3-f79d-4ffe-a5a4-5785e5ca67d2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>E</value>
+         <variableId>18ffd616-098f-40b8-aa9d-b74527b45ea6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>747dfbb3-f79d-4ffe-a5a4-5785e5ca67d2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>F</value>
+         <variableId>0657bf13-2e68-4bf5-9db8-2a8eee5eadf7</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
