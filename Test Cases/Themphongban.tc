@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Themphongban</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f731cdaa-c4f6-44cf-972d-b1797fd4b6e7</testCaseGuid>
+   <variable>
+      <defaultValue>'S02'</defaultValue>
+      <description></description>
+      <id>33167a71-1185-470c-9fbe-e5cac750d05f</id>
+      <masked>false</masked>
+      <name>Maphong</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kế Toán '</defaultValue>
+      <description></description>
+      <id>5d041fe2-2833-45cb-82ab-b6f3a8b32fb1</id>
+      <masked>false</masked>
+      <name>Tenphong</name>
+   </variable>
+   <variable>
+      <defaultValue>'107 Nguyễn Phong Sắc '</defaultValue>
+      <description></description>
+      <id>4181656a-4928-42f5-9898-f0711ce2cf79</id>
+      <masked>false</masked>
+      <name>Diachi</name>
+   </variable>
+</TestCaseEntity>

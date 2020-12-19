@@ -3,15 +3,15 @@
    <description></description>
    <name>button_ng Nhp</name>
    <tag></tag>
-   <elementGuidId>e0942cbf-1dab-4c7a-b351-75b03f8d50ee</elementGuidId>
+   <elementGuidId>336d2817-c712-418e-a2c7-abfca3971774</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-lg.btn-login.btn-block</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-lg.btn-login.btn-block</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

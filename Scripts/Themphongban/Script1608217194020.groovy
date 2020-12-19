@@ -15,16 +15,15 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-
 WebUI.openBrowser('http://localhost:41237/')
-
-WebUI.setText(findTestObject('Object Repository/Page_Qun L Ti Sn DKC/input_Tn Ngi Dng_UserName'), Username)
-
-WebUI.setText(findTestObject('Object Repository/Page_Qun L Ti Sn DKC/input_Mt Khu_Password'), Pasword)
-
-WebUI.click(findTestObject('Object Repository/Page_Qun L Ti Sn DKC/button_ng Nhp'))
-
-WebUI.click(findTestObject('Object Repository/Page_Trang Ch/h3_Phn mm qun l thit b cng ty ng Kinh'))
-
+WebUI.setText(findTestObject('Object Repository/Them phong ban/Page_Qun L Ti Sn DKC/input_Tn Ngi Dng_UserName'), 'BMT')
+WebUI.setText(findTestObject('Object Repository/Them phong ban/Page_Qun L Ti Sn DKC/input_Mt Khu_Password'), '12345')
+WebUI.click(findTestObject('Object Repository/Them phong ban/Page_Qun L Ti Sn DKC/button_ng Nhp'))
+WebUI.click(findTestObject('Object Repository/Them phong ban/Page_Trang Ch/p_Phng Ban'))
+WebUI.click(findTestObject('Object Repository/Them phong ban/Page_Danh sch phng ban/a_Thm'))
+WebUI.setText(findTestObject('Object Repository/Them phong ban/Page_Thm phng mi/input__ProjectSymbol'), Maphong)
+WebUI.setText(findTestObject('Object Repository/Them phong ban/Page_Thm phng mi/input__ProjectName'), Tenphong)
+WebUI.setText(findTestObject('Object Repository/Them phong ban/Page_Thm phng mi/textarea_a ch_Address'), Diachi)
+WebUI.click(findTestObject('Object Repository/Them phong ban/Page_Thm phng mi/button_Lu phng'))
 WebUI.closeBrowser()
 

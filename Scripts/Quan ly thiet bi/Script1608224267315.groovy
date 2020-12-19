@@ -18,13 +18,14 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('http://localhost:41237/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Qun L Ti Sn DKC/input_Tn Ngi Dng_UserName'), Username)
-
-WebUI.setText(findTestObject('Object Repository/Page_Qun L Ti Sn DKC/input_Mt Khu_Password'), Pasword)
-
-WebUI.click(findTestObject('Object Repository/Page_Qun L Ti Sn DKC/button_ng Nhp'))
-
-WebUI.click(findTestObject('Object Repository/Page_Trang Ch/h3_Phn mm qun l thit b cng ty ng Kinh'))
-
+WebUI.setText(findTestObject('Object Repository/Quan ly thiet bi/Page_Qun L Ti Sn DKC/input_Tn Ngi Dng_UserName'), 'BMT')
+WebUI.setText(findTestObject('Object Repository/Quan ly thiet bi/Page_Qun L Ti Sn DKC/input_Mt Khu_Password'), '12345')
+WebUI.click(findTestObject('Object Repository/Quan ly thiet bi/Page_Qun L Ti Sn DKC/button_ng Nhp'))
+WebUI.click(findTestObject('Object Repository/Quan ly thiet bi/Page_Trang Ch/p_Qun L Loi Thit B'))
+WebUI.click(findTestObject('Object Repository/Quan ly thiet bi/Page_DeviceType/button_Thm mi'))
+WebUI.setText(findTestObject('Object Repository/Quan ly thiet bi/Page_DeviceType/input_Tn Loi_TypeName'), Tenloai)
+WebUI.setText(findTestObject('Object Repository/Quan ly thiet bi/Page_DeviceType/input_K Hiu Loi_TypeSymbol'), Kyhieuloai)
+WebUI.setText(findTestObject('Object Repository/Quan ly thiet bi/Page_DeviceType/textarea_Notes_Notes'), Notes)
+WebUI.click(findTestObject('Object Repository/Quan ly thiet bi/Page_DeviceType/button_Thm'))
 WebUI.closeBrowser()
 

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Data nhanvien</name>
+   <name>Quanlythietbi</name>
    <tag></tag>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>a016baf8-17ba-417e-954a-73c52f2f9c43</dataFileGUID>
-   <dataSourceUrl>C:\Users\Duyen Hamy\Documents\Book5.xlsx</dataSourceUrl>
+   <dataFileGUID>f4d9d762-b689-4558-8eea-874f73cc3a9d</dataFileGUID>
+   <dataSourceUrl>C:\Users\Duyen Hamy\Documents\Quanlythietbi.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

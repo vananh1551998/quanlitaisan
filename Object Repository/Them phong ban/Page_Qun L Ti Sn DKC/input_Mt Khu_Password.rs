@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Mt Khu_Password</name>
    <tag></tag>
-   <elementGuidId>82111704-6e23-4462-982e-db798c6d820b</elementGuidId>
+   <elementGuidId>58462dc1-70e9-4c4c-8d02-8a8b0caa7eb2</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#Password</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='Password']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Password</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Quan ly thiet bi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4dc43a6-053d-46aa-9913-ee008e062276</testCaseGuid>
+   <variable>
+      <defaultValue>'Chuột có dây '</defaultValue>
+      <description></description>
+      <id>901c3d02-a890-4a06-9aed-67356bee89a9</id>
+      <masked>false</masked>
+      <name>Tenloai</name>
+   </variable>
+   <variable>
+      <defaultValue>'MOU'</defaultValue>
+      <description></description>
+      <id>afd8eea8-c08a-47f0-948d-ec9e98f43ec6</id>
+      <masked>false</masked>
+      <name>Kyhieuloai</name>
+   </variable>
+   <variable>
+      <defaultValue>'Chuột có dây '</defaultValue>
+      <description></description>
+      <id>200a22ed-6aa7-4c8d-a767-f7eb0d698d07</id>
+      <masked>false</masked>
+      <name>Notes</name>
+   </variable>
+</TestCaseEntity>

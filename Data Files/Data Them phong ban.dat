@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Data nhanvien</name>
+   <name>Data Them phong ban</name>
    <tag></tag>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>a016baf8-17ba-417e-954a-73c52f2f9c43</dataFileGUID>
-   <dataSourceUrl>C:\Users\Duyen Hamy\Documents\Book5.xlsx</dataSourceUrl>
+   <dataFileGUID>49e3e351-e238-49bc-9911-5be8e431be81</dataFileGUID>
+   <dataSourceUrl>C:\Users\Duyen Hamy\Documents\Themphongban.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

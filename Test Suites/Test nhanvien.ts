@@ -28,37 +28,37 @@
       <variableLink>
          <testDataLinkId>747dfbb3-f79d-4ffe-a5a4-5785e5ca67d2</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>A</value>
+         <value>UserName</value>
          <variableId>39474e6e-9012-4e26-8e6b-63f3bd0b2ab8</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId>747dfbb3-f79d-4ffe-a5a4-5785e5ca67d2</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>B</value>
+         <value>Password</value>
          <variableId>610a167a-9f71-4214-a573-b5d6b99eea03</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId>747dfbb3-f79d-4ffe-a5a4-5785e5ca67d2</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>C</value>
+         <value>username</value>
          <variableId>31be6f8d-b158-449d-9793-d35533d421b5</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId>747dfbb3-f79d-4ffe-a5a4-5785e5ca67d2</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>D</value>
+         <value>Fullname</value>
          <variableId>0cb6ecf5-1cfa-4fe0-803a-50dbab9ff059</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId>747dfbb3-f79d-4ffe-a5a4-5785e5ca67d2</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>E</value>
+         <value>Phone </value>
          <variableId>18ffd616-098f-40b8-aa9d-b74527b45ea6</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId>747dfbb3-f79d-4ffe-a5a4-5785e5ca67d2</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>F</value>
+         <value>Position</value>
          <variableId>0657bf13-2e68-4bf5-9db8-2a8eee5eadf7</variableId>
       </variableLink>
    </testCaseLink>
